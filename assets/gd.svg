@@ -1,0 +1,20 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background (optional, remove if you want transparent) -->
+  <rect width="200" height="200" fill="none"></rect>
+
+  <!-- Lines -->
+  <line x1="100" y1="100" x2="50" y2="150" stroke="#2C5D87" stroke-width="14" stroke-linecap="round"></line>
+  <line x1="100" y1="100" x2="150" y2="150" stroke="#2C5D87" stroke-width="14" stroke-linecap="round"></line>
+  <line x1="100" y1="100" x2="100" y2="40" stroke="#2C5D87" stroke-width="14" stroke-linecap="round"></line>
+
+  <!-- Nodes -->
+  <circle cx="100" cy="100" r="28" fill="#478CBF"></circle>
+  <circle cx="50" cy="150" r="18" fill="#478CBF"></circle>
+  <circle cx="150" cy="150" r="18" fill="#478CBF"></circle>
+  <circle cx="100" cy="40" r="18" fill="#478CBF"></circle>
+
+  <!-- Text -->
+  <text x="100" y="108" text-anchor="middle" fill="#FFFFFF" font-family="JetBrains Mono, monospace" font-size="20" font-weight="600">
+    gd
+  </text>
+</svg>

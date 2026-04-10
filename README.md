@@ -1,4 +1,12 @@
-# 🧩 GD — Godot Version Manager CLI
+<p align="center">
+  <img src="assets/gd.svg" alt="GD Logo" width="120" />
+</p>
+
+<h1 align="center">🧩 GD — Godot Version Manager CLI</h1>
+
+<p align="center">
+  A simple CLI for managing multiple Godot versions
+</p>
 
 **GD** is a command-line tool designed to simplify managing multiple versions of the Godot Engine.  
 It provides a clean and efficient workflow for installing, switching, running, and maintaining Godot versions across different projects.

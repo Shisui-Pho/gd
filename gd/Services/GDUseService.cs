@@ -24,5 +24,6 @@ internal class GDUseService
         }
 
         var versionBefore = _manager.GetByVersionString(resolvedVersion);
+        return default;
     }
 }

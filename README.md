@@ -239,4 +239,4 @@ Contributions, suggestions, and feedback are welcome.
 
 ## 📄 License
 
-MIT License (or your preferred license)
+MIT License
